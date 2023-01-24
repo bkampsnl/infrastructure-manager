@@ -1,11 +1,13 @@
 """calculator
 """
 
+
 def add(x, y):
     """Add x and y and return result."""
     return x + y
 
-def substract(x,y):
+
+def substract(x, y):
     """_summary_
 
     Args:
@@ -15,4 +17,4 @@ def substract(x,y):
     Returns:
         int: _description_
     """
-    return x-y    
+    return x-y
